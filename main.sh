@@ -1,1 +1,1 @@
-ps aux | grep nano
+ps aux | grep nano #Поиск
