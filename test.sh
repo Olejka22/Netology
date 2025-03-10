@@ -1,1 +1,1 @@
-ping netology.ru
+ping netology.ru #Проверка доступности сайта
